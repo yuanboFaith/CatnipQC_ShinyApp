@@ -1,0 +1,7 @@
+name: "my-website"
+navbar:
+  title: "R script of Catnip QC Shiny App"
+  left:
+    - text: "R script"
+      href: index.html
+output_dir: "."
