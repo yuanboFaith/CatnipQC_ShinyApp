@@ -1,5 +1,7 @@
 # Catnip Quality Control Data Analysis
 
+## Research Publications
+
 This repository records the R script of a R Shiny App project, which automates the data analysis and visualization of Catnip Quality Control (QC) samples. 
 This Shiny app is part of bigger project, that has yielded multiple publications in well known journals, as listed in the following citations:
 
@@ -11,6 +13,8 @@ This Shiny app is part of bigger project, that has yielded multiple publications
 - Gomes, E. N., Yuan, B., Patel, H. K., Lockhart, A., Wyenandt, C. A., Wu, Q., & Simon, J. E. (2024). **Implications of the Propagation Method for the Phytochemistry of Nepeta cataria L. throughout a Growing Season.** Molecules, 29(9), 2001. [**(see original article)**](https://www.mdpi.com/1420-3049/29/9/2001)
 
 <br>
+
+## Script References
 
 The R code has been developed with reference to [R for Data Science (2e)](https://r4ds.hadley.nz/), and the official documentation of [tidyverse](https://www.tidyverse.org/), and [**DataBrewer.co**](https://www.databrewer.co/). See breakdown of modules below:
 
@@ -25,6 +29,8 @@ The R code has been developed with reference to [R for Data Science (2e)](https:
 - [tibble](https://www.databrewer.co/R/data-wrangling/tibble/introduction): work with data frames in the modern tibble structure.
 
 <br>
+
+## Follow me. Stay Updated with My Latest Research
 
 <table style="border-collapse: collapse; width: 100%; border: 0;">
   <tr>
